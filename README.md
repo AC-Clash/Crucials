@@ -1,7 +1,9 @@
 # Crucials
 
-My version of Essentials with unique features. NOTE: Crucials isn't fully functional yet.
+A plugin that offers crucial and helpful commands.
+
+NOTE: Crucials isn't fully functional yet.
 
 ## What Crucials offers
 
-Crucials isn't just like Essentials. It offers extra commands like /saveserver which saves your entire network to a repo of your choice.
+Crucials has unique features that make it different from any other plugin that helps server administrators. It offers extra commands like /saveserver which saves your entire network to a repo of your choice.
