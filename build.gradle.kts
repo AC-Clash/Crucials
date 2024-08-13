@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.acclash"
-version = "0.8-SNAPSHOT"
+version = "0.9.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
