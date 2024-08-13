@@ -21,9 +21,8 @@ public class SetTeleportWarp implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
-        if (sender instanceof Player){
+        if (sender instanceof Player player){
 
-            Player player = (Player) sender;
             Location location = player.getLocation();
 
             if (args.length == 0){
