@@ -1,5 +1,5 @@
 name: Crucials
-version: '${project.version}'
+version: '${version}'
 main: com.acclash.crucials.Crucials
 authors: [ Anston_Sorensen ]
 api-version: 1.13
