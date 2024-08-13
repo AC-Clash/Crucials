@@ -1,8 +1,8 @@
-package me.acclashcorporation.crucials;
+package com.acclash.crucials;
 
-import me.acclashcorporation.crucials.commands.*;
-import me.acclashcorporation.crucials.events.BanInventoryListener;
-import me.acclashcorporation.crucials.files.Points;
+import com.acclash.crucials.commands.*;
+import com.acclash.crucials.events.BanInventoryListener;
+import com.acclash.crucials.files.Points;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Crucials extends JavaPlugin {
