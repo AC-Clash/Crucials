@@ -7,8 +7,6 @@ description: A crucial plugin that manages the server and can do various importa
 commands:
   bangui:
     description: Brings up a useful gui for managing player bans.
-  saveserver:
-    description: Writes what you built/did to a file and saves a backup of the entire server network to a GitHub repo (could be a GitHub website repo).
   tpplayer:
     description: Teleport players.
   tpall:
