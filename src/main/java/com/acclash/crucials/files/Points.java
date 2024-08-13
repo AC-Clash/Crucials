@@ -1,4 +1,4 @@
-package me.acclashcorporation.crucials.files;
+package com.acclash.crucials.files;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;

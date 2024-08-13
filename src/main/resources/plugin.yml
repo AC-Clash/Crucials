@@ -1,6 +1,6 @@
 name: Crucials
 version: '${project.version}'
-main: me.acclashcorporation.crucials.Crucials
+main: com.acclash.crucials.Crucials
 authors: [ Anston_Sorensen ]
 api-version: 1.13
 description: A crucial plugin that manages the server and can do various important actions.
