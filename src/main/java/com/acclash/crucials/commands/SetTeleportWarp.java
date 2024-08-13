@@ -1,7 +1,7 @@
-package me.acclashcorporation.crucials.commands;
+package com.acclash.crucials.commands;
 
-import me.acclashcorporation.crucials.Crucials;
-import me.acclashcorporation.crucials.files.Points;
+import com.acclash.crucials.Crucials;
+import com.acclash.crucials.files.Points;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.Command;
